@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning 
 
-- 💬 Ask me about **Data Engineer, Data Analytics, Artificial Intelligence**
+- 💬 Ask me about **Data Engineer, Data Analytics**
 
 - 📫 How to reach me **lcostahermes@gmail.com**
 
